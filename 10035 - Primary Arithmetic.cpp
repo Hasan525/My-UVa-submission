@@ -7,7 +7,7 @@ typedef unsigned long long int ull;
 
 int main()
 {
-    ll n,m,cnt=0,carry=0,x,y;
+    ull n,m,cnt=0,carry=0,x,y;
 
     while(cin>>n>>m)
     {
